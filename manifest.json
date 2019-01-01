@@ -1,7 +1,7 @@
 {
   "name": "Web Socket Client",
   "manifest_version": 2,
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A tool for manual web socket testing.",
   "icons": {
     "16":  "icon_128.png",
